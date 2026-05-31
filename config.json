@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerrecrypt",
+        "uuid": 7659084,
+        "checksum": "mjglda"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
